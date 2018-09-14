@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin: 0;
+}
+
+li a:hover {
+    background-color: #add8e6;
+}
+
+nav{
+    margin: auto;   
+}
+
+h1{
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.contact {
+    float: right;
+    margin: auto;
+}
+
+div{
+    text-align: center;
+}
+
+.fa-phone{
+    font-size: 40px;  
+}
+
+.fa-envelope-square{
+     font-size: 40px;  
+}
+
+.fa-building{
+     font-size: 40px; 
+}
+
+span.TextWidth{
+    font-size: 20px;
+}
+
+img {
+    border-radius: 50%;
+    width: 15%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
